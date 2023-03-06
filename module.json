@@ -11,7 +11,7 @@
       "type": "Macro"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/foundry_homebrew_module/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/foundry_homebrew_module/blob/main/module.json",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
