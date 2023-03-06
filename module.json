@@ -1,19 +1,21 @@
 {
-  "id": "homebrew",
-  "title": "Mein Homebrew Zeug",
-  "description": "Makros, Inhalte, ...",
-  "authors": "mortiferus93",
-  "packs": [
-    {
-      "name": "pf1-macros",
-      "label": "Macros für PF1",
-      "path": "/packs/pf1-macros.db",
-      "type": "Macro"
-    }
-  ],
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "10",
-    "verified": "10"
-  }
+    "name": "mein-homebrew-zeug",
+    "title": "Mein Homebrew Zeug",
+    "description": "Makros, Inhalte, ...",
+    "author": "mortiferus93",
+    "version": "0.0.1",
+    "compatibleCoreVersion": "",
+    "minimumCoreVersion": "10",
+    "url": "",
+    "packs": [
+        {
+            "name": "pf1-macros",
+            "label": "pf1-macros",
+            "path": "packs/pf1-macros.db",
+            "entity": "Macro",
+            "module": "mein-homebrew-zeug"
+        }
+    ],
+    "manifest": "",
+    "download": ""
 }
