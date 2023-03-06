@@ -1,0 +1,15 @@
+{
+  "id": "homebrew",
+  "title": "Mein Homebrew Zeug",
+  "description": "Makros, Inhalte, ...",
+  "authors": [
+    {
+    "name": "mortiferus93"
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
